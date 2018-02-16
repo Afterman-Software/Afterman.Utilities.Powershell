@@ -1,0 +1,1 @@
+﻿Get-ChildItem -inc packages -rec | Remove-Item -rec -force
